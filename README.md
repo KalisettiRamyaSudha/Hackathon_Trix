@@ -34,7 +34,6 @@ Mapbox: For rendering the custom map.
 Wi-Fi Scanning: Use Flutter’s wifi_scan package to detect AP signals.
 
 
-
  Impact
 
 Societal Benefits
@@ -45,7 +44,7 @@ Within the current scope— a single-building prototype with basic Wi-Fi fingerp
 Scalability
 This MVP targets one building, but its disability-driven purpose and no-hardware approach make it highly scalable. The use of existing Wi-Fi and a digitized blueprint means it can be adapted to other small, Wi-Fi-equipped facilities—like community centers, clinics, or schools—by simply mapping their layouts and collecting fingerprints. The Flutter-based app runs on most smartphones, ensuring broad accessibility for users with disabilities across socioeconomic backgrounds. Within the building, scaling involves adding more fingerprint points for finer location granularity, critical for precise navigation assistance. As we develop disability-specific features, this framework could become a customizable template for other spaces, offering a scalable, low-cost solution that prioritizes inclusivity and adapts to varied accessibility needs with minimal setup.
 
-This version emphasizes the app’s disability-focused mission while staying true to its current scope (basic functionality, single building, no hardware). It highlights the societal value for people with disabilities and positions future feature additions as the next logical step. 
+![App](https://github.com/user-attachments/assets/e70a4766-addc-481c-8120-795f08eb5790)
 
 
 
